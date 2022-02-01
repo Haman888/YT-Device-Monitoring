@@ -2,4 +2,4 @@ print("Some string")
 print("Status")
 print("fixing")
 print("fixing2")
-
+print("reduce_bags")
